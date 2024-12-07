@@ -1,0 +1,3 @@
+# Force classify specific files
+SQL_queries.sql linguist-language=SQL
+
